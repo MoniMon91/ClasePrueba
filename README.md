@@ -1,0 +1,2 @@
+# ClasePrueba
+Uso de GitHub
